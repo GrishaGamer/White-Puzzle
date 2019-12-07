@@ -1,4 +1,3 @@
-# White Puzzle
 Privacy Policy
 Grishka Productions built the White Puzzle app as a Free app. This SERVICE is provided by Grishka Productions at no cost and is intended for use as is.
 
