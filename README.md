@@ -1,5 +1,5 @@
 Privacy Policy
-Grishka Games built the White Puzzle app as a Free app. This SERVICE is provided by Grishka Games at no cost and is intended for use as is.
+Grishka Games built the White Puzzle app as a Free app. This app is provided by Grishka Games at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
