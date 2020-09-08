@@ -1,5 +1,5 @@
 Privacy Policy
-Grishka Games built the White Puzzle app as a Free app. This app is provided by Grishka Games at no cost and is intended for use as is.
+Grishka Games built the White Puzzle app as a Free app. This SERVICE is provided by Grishka Games at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -16,7 +16,7 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 Google Play Services
-AdMob
+Unity
 Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -53,7 +53,7 @@ Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-09-01
+This policy is effective as of 2020-09-08
 
 Contact Us
 
